@@ -1,6 +1,5 @@
 # -*- codeing = utf-8 -*-
 # @Time : 2023/4/13 15:46
-# @Author : 李国锋
 # @File: softmax_model.py
 # @Softerware:
 
