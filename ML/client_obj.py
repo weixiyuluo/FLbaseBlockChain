@@ -1,6 +1,6 @@
 # -*- codeing = utf-8 -*-
 # @Time : 2023/4/13 17:02
-# @Author : 李国锋
+
 # @File: client_obj.py
 # @Softerware:
 
