@@ -1,3 +1,6 @@
+# this file record the code that i learn machine learning, 
+
+
 import torch
 from torchvision import datasets, transforms
 from numpy import compat
